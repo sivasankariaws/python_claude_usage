@@ -1,5 +1,5 @@
-# app.py — Basic Calculator
-# This file is used across all 4 Claude Code setup demos (Lecture 6.1)
+"""Basic Calculator — simple arithmetic utility functions."""
+
 
 def add(a: float, b: float) -> float:
     """Return the sum of a and b."""
